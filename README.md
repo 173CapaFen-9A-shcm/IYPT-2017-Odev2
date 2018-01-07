@@ -28,32 +28,8 @@ Halkadaki bir sabun filmine üflenirse bir kabarcık oluşabilir, sıvı sabun f
 Blowing Bubbles(Baloncuk Üfleme) çeşitli parametrelerle hazırlanan maddelerin sabun filmine üflendiğinde ortaya kabarcık çıkması sonucunda hangi maddelerin baloncukta daha fazla dayanaıklılığa sebep olduğuna dair bir deneydir. 
 # Materyal ve Yöntem (Experimental Setup)
 
-Farklı parametreler, karışımlar ile farklı sıvı üfleme halkalarına üflendiğinde ne tip sabun filmlerinin oluşabileğini anlamak bizim bu deneydeki amacımızdır.Problemimiz ise her zaman aynı şekilde sabun filminin oluşmaması veya bazen hiç sabun filminin oluşmamasıdır.
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
+Farklı parametreler, karışımlar ile farklı sıvı üfleme halkalarına üflendiğinde ne tip sabun filmlerinin oluşabileğini anlamak bizim bu deneydeki amacımızdır.Problemimiz ise her zaman aynı şekilde sabun filminin oluşmaması veya bazen hiç sabun filminin oluşmamasıdır.Hipotezimiz farklı karışımlar sonucu farklı sabun filmlerinin olması ya da karışımların sonuç vermeyip hiç baloncuğun çıkmamasıdır. Çalışmamızda deneysel yöntem kullanarak farklı parametreleri farklı şekilde gözlemledik.Çalışmamızda bulunan arkadaşlar Sude Özcan , Hilal Avcı , Ceren Nisa Oğraş , Melisa Bayer olmak üzere dört kişidir.Çalışmamızı okulumuzun yurdunda yapmış bulunmaktayız.Malzemelerimizi alış-veriş merkezlerindeki oyuncakçılar, internet, ve çeşiti marketerden temin ettik. Deneyde gözlemlediğimiz parametrelere göre oluşan sonuçları tek tek not edip bu sonuçları inceleyip nelere bağlı olabileceği konusunda düşünüp ondan sonuçları yorumlayarak bulguları bulduk.Deney düzeneğimizde yarım çay bardağı su ile iki çay kaşığı şampuan, bir çay bardağı su ile üç çay kaşığı sıvı sabun, hazır köpükler, bir su bardağı su ile dört çay kaşığı sıvı deterjan; 2 cm yarıçapındaki üfleme halkaları ile 10 cm uzunluğundaki uzun ince üfleme halkalarını kullandık. Aynı koşullar altında deney sonucunun daha iyi olabilmesi için birkaç kere denediğimiz deney bizim yaklaşık 1.5 - 2 saatimizi almıştır.
 
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 
 # Bulgular (Results)
 Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
