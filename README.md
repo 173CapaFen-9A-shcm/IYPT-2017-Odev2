@@ -23,33 +23,12 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Halkadaki bir sabun filmine üflenirse bir kabarcık oluşabilir, sıvı sabun filmi patlayabilir veya bu film var olmaya devam edebilir.Bu durumları etkileyen birçok farklı durum mevcuttur.Eğer bir sabun filmine üflediğimizde bu filmden bir kabarcık oluşmasını istiyorsak üfleme hızımız, şiddetimiz ve üfleme mesafimiz,sıvının ve ortamın sıcaklığı bu kabarcığın oluşumunda veya sabun filminin oluşumunda etkilidir.Bu sabun filminin sıvı karışımını hazırlarken kullanılan madde veye maddelerin cinsi, kullanım miktarı ve oluşan karışımın yoğunluğu bu sabun filminin yüzey geriminde,esnekliğinde,kalınlığında ve dolayısıyla dayanıklılığında etkili olduğundan bu etmenler de sabun filmine üflendiğinde ortaya kabarcık çıkması veya bir fimden çıkan kabarcık saysısı,boyutu ve havada kalış süresinde etkilidir.Dolayısıyla bir sabun filmine filmine üflendiğinde ne gibi sonuçların ortaya çıkabileceğinin ve bu sonuçların ne gibi parametrelere bağlı olduğunu araştırmak bu projenin temel amacını oluşturur.Farklı sonuçların ortaya çıkmasını etkileyen parametrelerin araştıılıp tek tek denenerek ortaya çıkan durumları incelemek ve  bu deneyleri sonuçlarıyla beraber kaydedip analiz etmek bu projede deneme-yanılma yolu ile deneysel yöntem kullanıldığını kanıtlar. bu yöntemler sayesinde proje tamamlandığında sabun filmine üflediğimzde görmek istediğimiz sonucu nasıl elde edebileceğimizi biliyor olacağız.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Blowing Bubbles(Baloncuk Üfleme) çeşitli parametrelerle hazırlanan maddelerin sabun filmine üflendiğinde ortaya kabarcık çıkması sonucunda hangi maddelerin baloncukta daha fazla dayanaıklılığa sebep olduğuna dair bir deneydir. 
 # Materyal ve Yöntem (Experimental Setup)
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
+Farklı parametreler, karışımlar ile farklı sıvı üfleme halkalarına üflendiğinde ne tip sabun filmlerinin oluşabileğini anlamak bizim bu deneydeki amacımızdır.Problemimiz ise her zaman aynı şekilde sabun filminin oluşmaması veya bazen hiç sabun filminin oluşmamasıdır.
 * Çalışmanın yöntemi veya araştırma deseni,
 * Çalışma  grubunuz,  evreniniz,  örnekleminiz 
 (çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
